@@ -5,3 +5,8 @@ bakteri 4
 bakteri 5
 bakteri 6
 bakteri 7
+bitki 1
+bitki 2
+bitki 3
+bitki 4
+bitki 5
