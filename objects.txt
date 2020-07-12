@@ -5,6 +5,7 @@ bakteri 4
 bakteri 5
 bakteri 6
 bakteri 7
+hayvan branchından sonra 1 adım ileri gitti master
 bitki 1
 bitki 2
 bitki 3
