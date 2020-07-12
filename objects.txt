@@ -11,3 +11,8 @@ bitki 2
 bitki 3
 bitki 4
 bitki 5
+hayvan 1
+hayvan 2
+hayvan 3
+hayvan 4
+hayvan 5
