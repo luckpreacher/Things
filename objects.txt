@@ -1,0 +1,5 @@
+bakteri 1
+bakteri 2
+bakteri 3
+bakteri 4
+bakteri 5
