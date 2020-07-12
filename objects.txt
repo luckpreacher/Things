@@ -4,3 +4,4 @@ bakteri 3
 bakteri 4
 bakteri 5
 bakteri 6
+bakteri 7
